@@ -20,5 +20,5 @@
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=deovaliandro&show_icons=true&locale=en" alt="deovaliandro" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deovaliandro&show_icons=true&locale=en&layout=compact" alt="deovaliandro" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deovaliandro&show_icons=true&locale=en&layout=compact&card_width=400" alt="deovaliandro" /></p>
 

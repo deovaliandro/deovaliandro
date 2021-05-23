@@ -1,4 +1,4 @@
-<pre><code>
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGCln7QBDACjxBZVPem8LCmN4rIv69+pJGxSxTpFMmTh565pvDROQ/Jy2jEG
@@ -40,4 +40,4 @@ vfer+2NBmEtm0H9f9azhba/S46vdK9AP9IfDtjssscYlPqQd9UQH5bt7c/CPvbtU
 hIiHAC4qx8KrlQ0mvkW7iezkcCuKt9sSnoHiSWo=
 =IBaj
 -----END PGP PUBLIC KEY BLOCK-----
-</code></pre>
+```
